@@ -1,0 +1,30 @@
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.exe
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.deps.json
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.runtimeconfig.json
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.pdb
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.csproj.AssemblyReference.cache
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.AssemblyInfoInputs.cache
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.AssemblyInfo.cs
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\refint\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.pdb
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.genruntimeconfig.cache
+C:\GeekBrains\Final_verification_work_Zakharov Yuriy\Final_task_program\obj\Debug\net6.0\ref\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.exe
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.deps.json
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.runtimeconfig.json
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\bin\Debug\net6.0\Final_task_program.pdb
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.csproj.AssemblyReference.cache
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.AssemblyInfoInputs.cache
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.AssemblyInfo.cs
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\refint\Final_task_program.dll
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.pdb
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\Final_task_program.genruntimeconfig.cache
+C:\GeekBrains\Final_verification_work_Zakharov_Yuriy\Final_task_program\obj\Debug\net6.0\ref\Final_task_program.dll
